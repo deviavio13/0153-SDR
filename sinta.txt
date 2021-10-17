@@ -1,6 +1,12 @@
 G.231.19.0153 - Sinta Devi Ramadhani - USM Jaya
 
+<<<<<<< HEAD
 
 Fakultas Teknologi Informasi dan Komunikasi
 
 Kota Semarang, Jawa Tengah, Indonesia
+=======
+Univirsitas Semarang
+
+Jl. Soekarno, Tlogosari Kulon
+>>>>>>> sub-0153-SDR
