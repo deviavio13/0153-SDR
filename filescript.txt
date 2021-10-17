@@ -1,8 +1,0 @@
-bukalah terminal atau command prompt
-membuat directory:0153-SDR
-melakukan git init
-coba membuat file .txt
-melakukan git add .
-melakukan git commit -m "belajar commit"
-git remote add origin master ...
-update filescript
